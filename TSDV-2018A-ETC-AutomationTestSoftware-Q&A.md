@@ -21,7 +21,7 @@ Definitions
 ---
 <h2>List question</h2>
 
-- [![](./image/New.png) QA001: Simulate GUI of ETC Board and DSRC board](#-qa001-simulate-gui-of-etc-board-and-drsc-board)
+- [![](./image/New.png) QA001: Simulate GUI of ETC Board and DSRC board](#-qa001-simulate-gui-of-etc-board-and-dsrc-board)
 - [![](./image/New.png) QA002: New question](#-qa002-new-question)
 
 ---
