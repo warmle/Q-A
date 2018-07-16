@@ -34,12 +34,16 @@ Question
 We have concern about simulating GUI of ETC Board and DSRC board.
 
 1. ETC board
+
 In document SM0004 [ETC処理部（ESE拡張基板）基本部ソフトウェア設計書.doc] section 4.3.8, 6 and 8, ETC board displays some error code in LED when executing testing.
+
 **Do you want to simulate error code of LED in ETC software?**
 <br>
 2. DSRC board
+
 DSRC board displays:
     * Status of Antenna
     * Status connection of DSRC board
     * Mode by dip switch: Maintenance mode, Testing mode,...
+    
 **Do you want to simulate status of DSRC board in DSRC Simulator?**
