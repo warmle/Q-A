@@ -42,5 +42,4 @@ DSRC board displays:
     * Status of Antenna
     * Status connection of DSRC board
     * Mode by dip switch: Maintenance mode, Testing mode,...
-    
-    **Do you want to simulate status of DSRC board in DSRC Simulator?**
+**Do you want to simulate status of DSRC board in DSRC Simulator?**
