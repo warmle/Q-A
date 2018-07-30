@@ -45,6 +45,7 @@ In document SM0004 [ETC処理部（ESE拡張基板）基本部ソフトウェア
 **_2. DSRC board_**
 
 DSRC board displays:
+
     * Status of Antenna
     * Status connection of DSRC board
     * Mode by dip switch: Maintenance mode, Testing mode,...
